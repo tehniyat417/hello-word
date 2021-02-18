@@ -1,0 +1,37 @@
+.container{
+    height: auto;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 500px;
+  }
+  
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  button {
+    background-color:blue;
+    color: white;
+   width: 100%;
+    border: lightcoral;
+    cursor: pointer;
+    padding: 12px 20px;
+    margin: 8px 0;
+  
+  }
+  button:hover {
+    opacity: 0.8;
+  }
+  .Box{
+    border: 3px solid rgb(51, 20, 138);
+    height: 300px;
+    padding: 50px;
+    background-color: lightskyblue;
+  }
+  .login{
+      width: 100%                       ;
+  }
